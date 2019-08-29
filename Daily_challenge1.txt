@@ -1,0 +1,3 @@
+#Minutes to Seconds
+
+def changeMintosec(x,y)
